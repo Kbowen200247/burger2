@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "xyvfatmdik0op09l",
-    "password": "jxefnbp5gw5spvmz",
-    "database": "ved17w93tbj92kfq",
-    "host": "h40lg7qyub2umdvb.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "username": "oamwmlaquk0036lu",
+    "password": "zbood9ue7sb0pai1",
+    "database": "vzsgx92uysfj6ob7",
+    "host": "t89yihg12rw77y6f.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "database_test",
-    "host": "127.0.0.1",
+    "username": "oamwmlaquk0036lu",
+    "password": "zbood9ue7sb0pai1",
+    "database": "vzsgx92uysfj6ob7",
+    "host": "t89yihg12rw77y6f.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "production": {
-    "username": "xyvfatmdik0op09l",
-    "password": "jxefnbp5gw5spvmz",
-    "database": "ved17w93tbj92kfq",
-    "host": "h40lg7qyub2umdvb.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "username": "oamwmlaquk0036lu",
+    "password": "zbood9ue7sb0pai1",
+    "database": "vzsgx92uysfj6ob7",
+    "host": "t89yihg12rw77y6f.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   }
 }

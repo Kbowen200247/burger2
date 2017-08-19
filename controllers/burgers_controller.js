@@ -28,7 +28,7 @@ router.post("/burgers", function(req, res){
 
 router.post("/burgers/:id", function(req, res){
 	db.burgers.update({
-		devoured: 1,
+		devoured: 1
 	}, {where: {id: req.params.id}})
 	.then(function(data){
 		res.redirect("/burgers");
