@@ -40,4 +40,4 @@ Tier 1: Sequelized! (Basic to Moderate)
 
 <!-- <img width="800" alt="Burgers" src="https://kbowen200247.github.io/burger2/burger2Sequel.png"> -->
 ![Burgers-Sequel]
-(https://kbowen200247.github.io/burger2/burger2.png)
+(https://github.com/Kbowen200247/burger2/blob/master/burger2.png?raw=true)
