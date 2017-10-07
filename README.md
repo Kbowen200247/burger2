@@ -38,4 +38,4 @@ Tier 1: Sequelized! (Basic to Moderate)
 
 	- Remove your old ORM file, as well as any references to it in burgers_controller.js. Replace those references with Sequelize's ORM methods.
 
-<img width="800" alt="Burgers" src="https://kbowen200247.github.io/burger2/burger2-Sequel.png">
+<img width="800" alt="Burgers-Sequel" src="https://kbowen200247.github.io/burger2/burger2Sequel.png">
